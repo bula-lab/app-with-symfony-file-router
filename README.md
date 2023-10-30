@@ -1,0 +1,1 @@
+# app-with-symfony-file-router
